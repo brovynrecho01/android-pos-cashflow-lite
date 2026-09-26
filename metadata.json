@@ -1,0 +1,6 @@
+{
+  "name": "Toko Pak Kadi Cash System",
+  "description": "Aplikasi POS kasir dan catatan arus kas harian toko kelontong offline-first dengan sinkronisasi Google Apps Script Webhook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
