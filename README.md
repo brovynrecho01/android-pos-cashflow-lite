@@ -46,16 +46,6 @@ Banyak aplikasi kasir modern terlalu berat untuk toko kelontong karena mewajibka
 
 ---
 
-## Tangkapan Layar (Screenshots)
-
-| Beranda & Modal | Kasir (Pemasukan) | Pengeluaran | Laporan & Tutup Toko |
-| :---: | :---: | :---: | :---: |
-| ![Beranda](screenshots/beranda.png) | ![Kasir](screenshots/kasir.png) | ![Pengeluaran](screenshots/pengeluaran.png) | ![Laporan](screenshots/laporan.png) |
-
-*(Catatan: Tambahkan tangkapan layar aplikasi ke dalam folder `screenshots/` di repositori ini).*
-
----
-
 ## Tech Stack & Arsitektur
 
 | Komponen | Teknologi yang Digunakan |
