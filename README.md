@@ -167,8 +167,8 @@ Aplikasi ini menggunakan pendekatan *Serverless Webhook* agar dapat terhubung ke
 
 1. **Clone repositori ini:**
    ```bash
-   git clone [https://github.com/username-anda/toko-pak-kadi-cash-system.git](https://github.com/username-anda/toko-pak-kadi-cash-system.git)
-   cd toko-pak-kadi-cash-system
+ git clone [https://github.com/brovynrecho01/android-pos-cashflow-lite.git](https://github.com/brovynrecho01/android-pos-cashflow-lite.git)
+  cd android-pos-cashflow-lite.
    ```
 2. **Buka di Android Studio:**
    Buka folder proyek menggunakan **Android Studio** (Ladybug atau versi lebih baru) dengan dukungan JDK 17.
